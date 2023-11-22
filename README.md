@@ -1,4 +1,4 @@
-<h1 align="center">Sistema de Zoológico</h1>
+
 
 ## **Sumário:**<a name="sumario"></a>
 - <a href="#1">Introdução</a>
