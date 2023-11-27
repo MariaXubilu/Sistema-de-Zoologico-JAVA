@@ -14,7 +14,7 @@ Sistema para gerenciar animais em um zoológico.
 
 ## Pessoas Envolvidas <a name="4"></a><a href="#sumario">:arrow_double_up:</a>
 - Andressa Monteiro [:octocat:](https://github.com/AndressaUwU) 
-- Gabriel Rocha [:octocat:](https://github.com/CSeisOsso)
+- Gabriel Rocha [:octocat:](https://github.com/CSeisOssos)
 - Maria Eduarda [:octocat:](https://github.com/)
 
 
