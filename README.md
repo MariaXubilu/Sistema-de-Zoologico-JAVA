@@ -13,8 +13,8 @@ Sistema para gerenciar animais em um zoológico.
 ## Classes <a name="3"></a><a href="#sumario">:arrow_double_up:</a>
 
 ## Pessoas Envolvidas <a name="4"></a><a href="#sumario">:arrow_double_up:</a>
-- Andressa Monteiro [https://github.com/AndressaUwU](:octocat:)
-- Gabriel Rocha [https://github.com/CSeisOsso](:octocat:)
-- Maria Eduarda [https://github.com/](:octocat:)
+- Andressa Monteiro [:octocat:(https://github.com/AndressaUwU) 
+- Gabriel Rocha [:octocat:(https://github.com/CSeisOsso)
+- Maria Eduarda [:octocat:(https://github.com/)
 
 
