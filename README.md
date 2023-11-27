@@ -13,7 +13,7 @@ Sistema para gerenciar animais em um zoológico.
 ## Classes <a name="3"></a><a href="#sumario">:arrow_double_up:</a>
 
 ## Pessoas Envolvidas <a name="4"></a><a href="#sumario">:arrow_double_up:</a>
-- Andressa Monteiro dos Santos
-  - @ AndressaUwU
+- Andressa Monteiro dos Santos [](:octocat:)
+- @AndressaComp
 
 
