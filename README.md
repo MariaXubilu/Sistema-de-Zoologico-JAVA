@@ -14,5 +14,6 @@ Sistema para gerenciar animais em um zoológico.
 
 ## Pessoas Envolvidas <a name="4"></a><a href="#sumario">:arrow_double_up:</a>
 - Andressa Monteiro dos Santos
-  - @AndressaUwU
+  @AndressaUwU
+  #AndressaUwU
 
