@@ -13,12 +13,15 @@ Bem-vindo ao nosso projeto, um sistema projetado para simplificar o controle de 
 
 ## Como Instalar <a name="2"></a><a href="#sumario">:arrow_double_up:</a>
 ### 1. Plataforma
-É necessário ter o aplicativo [Visual Studio Code](https://code.visualstudio.com/download) instalado na sua máquina.
+É necessário ter o kit de desenvolvimento, ou [JDK](), e de uma [IDE (IDE Intellij IDEA)]().
+- Observações:
+  - Para baixar a JDK usaremos o projeto Eclipse Adoptium.....
+  - No caso do do IDE Intellij IDEA, baixar a versão Community.
 
 ### 2. Executando o Projeto
 Para executar o projeto, deve seguir os seguintes passos:
-1. Crie uma pasta na sua máquina e entre nela por qualquer terminal (ex:Git Bash, CMD).
-2. Estando dentro a pasta criada, deverá puxar para sua máquina a branch que contém o teste, pelo terminal, rode o comando:
+1. Baixe nosso repositório e entre no IDE Intellij IDEA, em seguida, abra a pasta baixada.
+2. Estando com a pasta aberta....
 
 ## Classes <a name="3"></a><a href="#sumario">:arrow_double_up:</a>
 
