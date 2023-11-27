@@ -13,6 +13,5 @@ Sistema para gerenciar animais em um zoológico.
 ## Classes <a name="3"></a><a href="#sumario">:arrow_double_up:</a>
 
 ## Pessoas Envolvidas <a name="2"></a><a href="#sumario">:arrow_double_up:</a>
-@AndressaM.
-@CSeisOssos
+@AndressaUwU A
 
