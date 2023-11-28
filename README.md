@@ -19,14 +19,36 @@ Bem-vindo ao nosso projeto, um sistema projetado para simplificar o controle de 
 ### 2. Executando o Projeto
 Para executar o projeto, deve seguir os seguintes passos:
 1. Entre no IDE Intellij IDEA, e dentro dele, abra a pasta do projeto;
-2. Estando com o projeto aberto, abra a pasta `main`, entre no arquivo `JanelaZoologico.java` e o execute.(Obs: Por conta do tamanho do arquivo, talvez demore ao executa-lo) 
+2. Estando com o projeto aberto, abra a pasta `main`, entre no arquivo `JanelaZoologico.java` e o execute (Obs: Por conta do tamanho do arquivo, talvez demore ao executa-lo).
 
 ## Classes <a name="3"></a><a href="#sumario">:arrow_double_up:</a>
 - **animals**\
-Está 
-- **enums**
-- **main**
-- **zoo**
+  Está é classe dos animais, com a classe `animals` sendo a classe abstrata e genérica que define as coisas que um animal **DEVE** ter.
+    - Como nome, especie e tipo de dieta.
+  
+  Essa classe também lida com a estrutura dos animais.
+    - getters e setters para nomes e tipos de dieta e pelagem, por exemplo.
+  
+  A sub classe anfibio, anfibio venenoso, ave, mamífero, reptil e reptil venenoso são herdeiras da classe animal, isso é, elas herdam as características necessárias para serem animais.
+    - Como nome, especie e tipo de dieta.
+      
+  Mas também tem características próprias, como o tipo de pelagem dos mamíferos, o veneno dos répteis e anfíbios, a envergadura das asas das aves, etc.
+- **enums**\
+  Essa classe foi feita basicamente para padronizar as dietas dos animais, que são: carnívoro, herbívoro ou onívoro.
+- **main**\
+  O arquivo `JanelaZoologico.java` tem o pacote `main`, ela age como uma main padrão de um projeto, é aqui que ocorre a entrada dos valores no programa.
+- **zoo**\
+  A classe `Zoologico.java` lida com toda a lógica de programação da parte estrutural do zoológico. Ou seja, ela lida com coisas como:
+- Inicializar a lista dos animais;
+- Listar os animais no console;
+- Adicionar animal a lista;
+- Remover um animal da lista;
+- Criar um animal com base nas entradas do usuário;
+- Obter o tipo de dieta do animal com base na escolha do usuário;
+- Remover o animal da lista com base no nome fornecido;
+- Verificar a existência do animal na lista;
+- Listar os animais por nome em ordem alfabética;
+- Adicionar as informações à interface gráfica ao invés de imprimi-las no console.
 
 ## Pessoas Envolvidas <a name="4"></a><a href="#sumario">:arrow_double_up:</a>
 - [Andressa Monteiro](https://github.com/AndressaUwU) 
