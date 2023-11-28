@@ -19,10 +19,10 @@ Bem-vindo ao nosso projeto, um sistema projetado para simplificar o controle de 
 ### 2. Executando o Projeto
 Para executar o projeto, deve seguir os seguintes passos:
 1. Entre no IDE Intellij IDEA, e dentro dele, abra a pasta do projeto;
-2. Estando com o projeto aberto, abra a pasta `main`, entre no arquivo `JanelaZoologico.java` e o execute.
+2. Estando com o projeto aberto, abra a pasta `main`, entre no arquivo `JanelaZoologico.java` e o execute.(Obs: Por conta do tamanho do arquivo, talvez demore ao executa-lo) 
 
 ## Classes <a name="3"></a><a href="#sumario">:arrow_double_up:</a>
-- **animals**
+- **animals**\
 Está 
 - **enums**
 - **main**
