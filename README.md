@@ -13,19 +13,22 @@ Bem-vindo ao nosso projeto, um sistema projetado para simplificar o controle de 
 
 ## Como Instalar <a name="2"></a><a href="#sumario">:arrow_double_up:</a>
 ### 1. Plataforma
-1. É necessário ter o [IDE (IDE Intellij IDEA)](https://www.jetbrains.com/idea/) instalado na sua máquina.
+1. É necessário ter o [IDE Intellij IDEA](https://www.jetbrains.com/idea/) instalado na sua máquina.
 2. Deve baixar o projeto para sua máquina.
 
 ### 2. Executando o Projeto
 Para executar o projeto, deve seguir os seguintes passos:
 1. Entre no IDE Intellij IDEA, e dentro dele, abra a pasta do projeto;
-2. Estando com a pasta aberta....
+2. Estando com o projeto aberto, abra a pasta `main`, entre no arquivo `JanelaZoologico.java` e o execute.
 
 ## Classes <a name="3"></a><a href="#sumario">:arrow_double_up:</a>
+- **animals**
+Está 
+- **enums**
+- **main**
+- **zoo**
 
 ## Pessoas Envolvidas <a name="4"></a><a href="#sumario">:arrow_double_up:</a>
 - [Andressa Monteiro](https://github.com/AndressaUwU) 
 - [Gabriel Rocha](https://github.com/CSeisOssos)
 - [Maria Eduarda](https://github.com/)
-
-
