@@ -53,4 +53,4 @@ Para executar o projeto, deve seguir os seguintes passos:
 ## Pessoas Envolvidas <a name="4"></a><a href="#sumario">:arrow_double_up:</a>
 - [Andressa Monteiro](https://github.com/AndressaUwU) 
 - [Gabriel Rocha](https://github.com/CSeisOssos)
-- [Maria Eduarda](https://github.com/)
+- [Maria Eduarda](https://github.com/MariaXubilu)
