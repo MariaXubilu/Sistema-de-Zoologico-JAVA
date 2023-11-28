@@ -13,14 +13,12 @@ Bem-vindo ao nosso projeto, um sistema projetado para simplificar o controle de 
 
 ## Como Instalar <a name="2"></a><a href="#sumario">:arrow_double_up:</a>
 ### 1. Plataforma
-É necessário ter o kit de desenvolvimento, ou [JDK](), e de uma [IDE (IDE Intellij IDEA)]().
-- Observações:
-  - Para baixar a JDK usaremos o projeto Eclipse Adoptium.....
-  - No caso do do IDE Intellij IDEA, baixar a versão Community.
+1. É necessário ter o [IDE (IDE Intellij IDEA)](https://www.jetbrains.com/idea/) instalado na sua máquina.
+2. Deve baixar o projeto para sua máquina.
 
 ### 2. Executando o Projeto
 Para executar o projeto, deve seguir os seguintes passos:
-1. Baixe nosso repositório e entre no IDE Intellij IDEA, em seguida, abra a pasta baixada.
+1. Entre no IDE Intellij IDEA, e dentro dele, abra a pasta do projeto;
 2. Estando com a pasta aberta....
 
 ## Classes <a name="3"></a><a href="#sumario">:arrow_double_up:</a>
