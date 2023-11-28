@@ -39,16 +39,16 @@ Para executar o projeto, deve seguir os seguintes passos:
   O arquivo `JanelaZoologico.java` tem o pacote `main`, ela age como uma main padrão de um projeto, é aqui que ocorre a entrada dos valores no programa.
 - **zoo**\
   A classe `Zoologico.java` lida com toda a lógica de programação da parte estrutural do zoológico. Ou seja, ela lida com coisas como:
-- Inicializar a lista dos animais;
-- Listar os animais no console;
-- Adicionar animal a lista;
-- Remover um animal da lista;
-- Criar um animal com base nas entradas do usuário;
-- Obter o tipo de dieta do animal com base na escolha do usuário;
-- Remover o animal da lista com base no nome fornecido;
-- Verificar a existência do animal na lista;
-- Listar os animais por nome em ordem alfabética;
-- Adicionar as informações à interface gráfica ao invés de imprimi-las no console.
+  - Inicializar a lista dos animais;
+  - Listar os animais no console;
+  - Adicionar animal a lista;
+  - Remover um animal da lista;
+  - Criar um animal com base nas entradas do usuário;
+  - Obter o tipo de dieta do animal com base na escolha do usuário;
+  - Remover o animal da lista com base no nome fornecido;
+  - Verificar a existência do animal na lista;
+  - Listar os animais por nome em ordem alfabética;
+  - Adicionar as informações à interface gráfica ao invés de imprimi-las no console.
 
 ## Pessoas Envolvidas <a name="4"></a><a href="#sumario">:arrow_double_up:</a>
 - [Andressa Monteiro](https://github.com/AndressaUwU) 
