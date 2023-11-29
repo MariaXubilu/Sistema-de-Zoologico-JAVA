@@ -13,7 +13,7 @@ Bem-vindo ao nosso projeto, um sistema projetado para simplificar o controle de 
 
 ## Como Instalar <a name="2"></a><a href="#sumario">:arrow_double_up:</a>
 ### 1. Plataforma
-1. É Você pode usar vários IDE (ambientes de desenvolvimento de software) para executar o projeto, mas o mais fácil de fazer é com o [IDE Intellij IDEA](https://www.jetbrains.com/idea/), visto que não são necessários plugins ou coisas do gênero para fazer com que o projeto compile, a escolha do IDE é de sua preferência.
+1. Você pode usar vários IDE (ambientes de desenvolvimento de software) para executar o projeto, mas o mais fácil de fazer é com o [IDE Intellij IDEA](https://www.jetbrains.com/idea/), visto que não são necessários plugins ou coisas do gênero para fazer com que o projeto compile, a escolha do IDE é de sua preferência.
 2. Deve baixar o projeto para sua máquina.
 
 ### 2. Executando o Projeto
